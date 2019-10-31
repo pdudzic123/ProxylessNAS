@@ -1,6 +1,6 @@
-*test.py
-*.DS_Store
-.idea/*
+.idea/
+sync.sh
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
